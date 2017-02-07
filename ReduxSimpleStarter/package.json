@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "react-redux-authentication-client",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "React Redux Authentication Template",
   "main": "index.js",
   "repository": "",
   "scripts": {
